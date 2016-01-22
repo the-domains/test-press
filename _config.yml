@@ -1,0 +1,28 @@
+name: Test Press
+favicon: null
+layout_spectrum: 0.12176146730780602
+typography_spectrum: 0.9369995417073369
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.7702619142364711
+  lightness: 0.010508829029276967
+  saturation: 0.04558573360554874
+  rhythmicContrast: 0.8497815406881273
+purpose: []
